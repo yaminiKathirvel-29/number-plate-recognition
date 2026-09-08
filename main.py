@@ -17,7 +17,7 @@ MODEL_PATH = "yolov8n.pt"
 # Camera:
 # 0 = laptop built-in camera
 # 1 = Iriun Webcam (usually)
-CAMERA_INDEX = 0
+CAMERA_INDEX = 1
 
 # Confidence threshold for YOLO
 CONFIDENCE = 0.40
